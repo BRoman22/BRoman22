@@ -1,6 +1,6 @@
-<h2 align="center">Привет 👋
+<h2 align="center">Привет 👋</h2>
 <br>
-Меня зовут Роман. Я frontend - разработчик 💻</h2>
+<h2 align="center">Меня зовут Роман. Я frontend - разработчик 💻</h2>
 
 
 Мои контакты ✉️
