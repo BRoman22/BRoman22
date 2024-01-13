@@ -1,4 +1,4 @@
-<h2 align="center">Привет 👋</h2>
+<p align="center">Привет 👋</p>
 <br>
 <h2 align="center">Меня зовут Роман. Я frontend - разработчик 💻</h2>
 
