@@ -12,7 +12,7 @@
   </a>
 </div>
 
-<h2>Технологии:</h2>
+<h2>🛠️ Технологии:</h2>
 <div>
   <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="иконка javaScript">
   <img src="https://img.shields.io/badge/react-%23087ea4?style=for-the-badge&logo=react&logoColor=white" alt="иконка react">
