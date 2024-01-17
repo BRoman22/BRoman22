@@ -34,3 +34,7 @@
   <img src="https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="иконка postman">
   <img src="https://img.shields.io/badge/figma-1f1e1e?style=for-the-badge&logo=figma&logoColor=white" alt="иконка figma">
 </div>
+
+<br>
+
+<p align="center">Мои проекты ⬇</p>
