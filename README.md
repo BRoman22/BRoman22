@@ -11,6 +11,13 @@
     <img src="https://img.shields.io/badge/mail-ff0000?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
 </div>
+<br>
+
+<p>🎓 Закончил курс фронтенд - разработки в Яндекс Практикум, [Мой диплом](https://github.com/BRoman22/BRoman22/files/13959447/default.pdf)</p>
+
+<p>🚀 Люблю создавать и учиться</p>
+
+<p>🚴 Люблю активные виды спорта и настолки с друзьями</p>
 
 <h2>🛠️ Технологии:</h2>
 <div>
@@ -19,6 +26,10 @@
   <img src="https://img.shields.io/badge/html-ff6739?style=for-the-badge&logo=html5&logoColor=white" alt="иконка html">
   <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white" alt="иконка css">
   <img src="https://img.shields.io/badge/node.js-026e00?style=for-the-badge&logo=node.js&logoColor=white" alt="иконка node.js">
-  <img src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white" alt="иконка express">
+  <img src="https://img.shields.io/badge/express%20js-black?style=for-the-badge&logo=express&logoColor=white" alt="иконка express">
   <img src="https://img.shields.io/badge/mongodb-00ED64?style=for-the-badge&logo=mongodb&logoColor=white" alt="иконка mongoDB">
+  <img src="https://img.shields.io/badge/vite-bd34fe?style=for-the-badge&logo=vite&logoColor=white" alt="иконка vite">
+  <img src="https://img.shields.io/badge/webpack-5468ff?style=for-the-badge&logo=webpack&logoColor=white" alt="иконка webpack">
+  <img src="https://img.shields.io/badge/postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="иконка postman">
+  <img src="https://img.shields.io/badge/figma-1f1e1e?style=for-the-badge&logo=figma&logoColor=white" alt="иконка figma">
 </div>
