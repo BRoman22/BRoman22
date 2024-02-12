@@ -2,7 +2,8 @@
 <br>
 Меня зовут Роман. Я frontend - разработчик 💻</h2>
 
-<h4>✉️ Контакты:
+<h3>✉️ Контакты:
+<br>
 <div>
   <a href="https://t.me/R0MANB0ND">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
@@ -10,7 +11,7 @@
   <a href="mailto:rbondarev22@gmail.com">
     <img src="https://img.shields.io/badge/mail-ff0000?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-</div></h4>
+</div></h3>
 <br>
 
 <p>🎓 Закончил курс фронтенд - разработки в Яндекс Практикум</p>
