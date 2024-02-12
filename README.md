@@ -2,7 +2,7 @@
 <br>
 Меня зовут Роман. Я frontend - разработчик 💻</h2>
 
-✉️ Контакты:
+<h2>✉️ Контакты:</h2>
 <div>
   <a href="https://t.me/R0MANB0ND">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
