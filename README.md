@@ -22,7 +22,7 @@
 
 <br>
 <h2>🛠️ Технологии:</h2>
-<div>
+<div align="center">
   <img src="https://img.shields.io/badge/typescript-%233178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="иконка typeScript">
   <img src="https://img.shields.io/badge/Redux%20toolkit-%23764abc?style=for-the-badge&logo=redux&logoColor=white" alt="иконка redux toolkit">
   <img src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="иконка vercel">
