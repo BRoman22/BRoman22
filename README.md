@@ -23,6 +23,9 @@
 <br>
 <h2>🛠️ Технологии:</h2>
 <div>
+  <img src="https://img.shields.io/badge/typescript-%233178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="иконка typeScript">
+  <img src="https://img.shields.io/badge/Redux%20toolkit-%23764abc?style=for-the-badge&logo=redux&logoColor=white" alt="иконка Redux toolkit">
+  <img src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white" alt="иконка Vercel">
   <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="иконка javaScript">
   <img src="https://img.shields.io/badge/react-%23087ea4?style=for-the-badge&logo=react&logoColor=white" alt="иконка react">
   <img src="https://img.shields.io/badge/html-ff6739?style=for-the-badge&logo=html5&logoColor=white" alt="иконка html">
