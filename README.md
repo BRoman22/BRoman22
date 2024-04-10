@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white" alt="иконка css">
   <img src="https://img.shields.io/badge/docker-%231d63ed?style=for-the-badge&logo=docker&logoColor=white" alt="иконка docker">
   <img src="https://img.shields.io/badge/swagger-%2349cc90?style=for-the-badge&logo=swagger&logoColor=white" alt="иконка swagger">
+  <img src="https://img.shields.io/badge/sass-%23bf4080?style=for-the-badge&logo=sass&logoColor=white" alt="иконка sass">
   <img src="https://img.shields.io/badge/node.js-026e00?style=for-the-badge&logo=node.js&logoColor=white" alt="иконка node.js">
   <img src="https://img.shields.io/badge/express%20js-black?style=for-the-badge&logo=express&logoColor=white" alt="иконка express">
   <img src="https://img.shields.io/badge/mongodb-00ED64?style=for-the-badge&logo=mongodb&logoColor=white" alt="иконка mongoDB">
