@@ -5,7 +5,7 @@
 <h3>✉️ Контакты:
 <br>
 <div>
-  <a href="https://t.me/R0MANB0ND">
+  <a href="https://t.me/romanBnd">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
   <a href="mailto:rbondarev22@gmail.com">
@@ -13,8 +13,6 @@
   </a>
 </div></h3>
 <br>
-
-<p>🎓 Закончил курс фронтенд - разработки в Яндекс Практикум</p>
 
 <p>🚀 Люблю создавать и учиться</p>
 
