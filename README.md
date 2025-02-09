@@ -5,7 +5,7 @@
 <h3>✉️ Контакты:
 <br>
 <div>
-  <a href="https://t.me/romanBnd">
+  <a href="https://t.me/romanBnd" target="_blank">
     <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
   </a>
   <a href="mailto:rbondarev22@gmail.com">
